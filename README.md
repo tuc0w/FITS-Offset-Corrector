@@ -9,3 +9,10 @@ Start the application:
 ```bash
 python offset_corrector_gui.py
 ```
+
+GUI:
+
+![](/docs/main_window.png)
+
+How it works:
+![](/docs/workflow.gif)
