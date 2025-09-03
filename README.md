@@ -15,4 +15,5 @@ GUI:
 ![](/docs/main_window.png)
 
 How it works:
+
 ![](/docs/workflow.gif)
